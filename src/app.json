@@ -1,0 +1,13 @@
+{
+	"expo": {
+		"name": "Pipe weight",
+		"icon": "./icon.png",
+		"description": "Pipe weight for Vadim Lavrukhin",
+		"sdkVersion": "27.0.0",
+		"android": {
+			"package": "com.snowil.pipeweight",
+			"versionCode": 1,
+			"icon": "./icon.png"
+		}
+	}
+}
